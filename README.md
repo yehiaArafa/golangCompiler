@@ -1,2 +1,2 @@
 # GoLexicalAnalyser
-A lexical anaylser for GOLANG written by java.
+A lexical anaylser and a LVM Parser for GOLANG written by java.
